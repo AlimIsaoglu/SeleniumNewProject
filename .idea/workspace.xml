@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efa555a3-e79b-4d88-adc7-1987aede00bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/async-http-client-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/auto-common-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/auto-service-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/auto-service-annotations-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/byte-buddy-1.14.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/checker-qual-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/error_prone_annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/failsafe-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/guava-31.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/j2objc-annotations-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/jtoml-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-buffer-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-codec-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-codec-http-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-codec-socks-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-common-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-handler-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-handler-proxy-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-reactive-streams-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-resolver-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-transport-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-transport-classes-epoll-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-transport-classes-kqueue-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/lib/netty-transport-native-epoll-4.1.91.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-api-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-api-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-chrome-driver-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-chrome-driver-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-chromium-driver-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-chromium-driver-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v110-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v110-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v111-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v111-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v112-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v112-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v85-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-devtools-v85-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-edge-driver-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-edge-driver-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-firefox-driver-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-firefox-driver-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-http-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-http-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-ie-driver-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-ie-driver-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-java-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-json-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-json-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-manager-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-manager-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-remote-driver-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-remote-driver-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-safari-driver-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-safari-driver-4.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-support-4.9.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/libraries/selenium-support-4.9.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QI2naOM3VZkGezgk1rp9xfhp92" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa555a3-e79b-4d88-adc7-1987aede00bc" name="Changes" comment="" />
+      <created>1685026946339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685026946339</updated>
+    </task>
+    <servers />
+  </component>
+</project>
