@@ -1793,7 +1793,7 @@ WebDriver:
   * IEDriver crashes in WaitUntilElementFocused() because of null pointer. Fixes issue #7577
   * Deprecate the original RC interface in Selenium.
     As part of Selenium 3.0, we shall be moving the original RC interface to a
-    legacy JAR that will be available as a separate download. As the first step
+    legacy JAR that will be available as a separate download. As the techproed.day01_IlkTest_DriverMethods.first step
     in this process, the original "Selenium" interface is being marked as
     deprecated.
   * Run FirefoxDriver tests with Buck.
@@ -1825,7 +1825,7 @@ WebDriver:
   * Fixing use of deprecated API in httpclient
   * Fixing use of deprecated API in guava
   * Update Closure library to head and compiler to the latest release
-  * Implementing ability to use FirefoxDriver on a machine where localhost is not the first alias for
+  * Implementing ability to use FirefoxDriver on a machine where localhost is not the techproed.day01_IlkTest_DriverMethods.first alias for
     127.0.0.1. Fixes issue 3280
   * Handle null and empty paths the same as /
   * fixing maven build, adding reference to jetty-rc-repacked-5
@@ -2167,7 +2167,7 @@ WebDriver:
   * Update to support native events for Firefox 25.
   * Updated httpclient and httpcore maven dependencies
   * When moving the mouse relative to an element hidden in a parent's
-    overflow region, that element must first be scrolled into view
+    overflow region, that element must techproed.day01_IlkTest_DriverMethods.first be scrolled into view
     before the mouse move can be completed.
   * Removed WindowsProxyManager from InternetExplorerDriver, proxy
     management is implemented in IEDriverServer now.
@@ -2753,7 +2753,7 @@ WebDriver:
   * FIXED: 4071: IE: JVM/IEDriverServer Crash when the current window is closed
     without switching to another window.
   * FIXED: 3683: WebDriver (selenium server) does not use user specified proxy PAC file for IE.
-  * FIXED: 4070: Dot-net bindings: == oprerator fails if first argument is null.
+  * FIXED: 4070: Dot-net bindings: == oprerator fails if techproed.day01_IlkTest_DriverMethods.first argument is null.
   * FIXED: 4064: Selenium2 crash on IE8 when S_FALSE is returned from get_Document.
   * FIXED: 3945: The SafariDriver hangs if an iframe is deleted while it is selected.
   * FIXED: 3892: WebdriverJS: Need support mouse events
