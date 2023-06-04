@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efa555a3-e79b-4d88-adc7-1987aede00bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day02_DriverMethods/C01_DriverMethods_ClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day02_DriverMethods/C02_NavigateMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day02_DriverMethods/C03_ManageMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day02_DriverMethods/C04_ManageMethods_ImplicitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day03_Locators/C01_WebElementLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day03_Locators/C02_Submit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day03_Locators/C03_findElements.java" afterDir="false" />
+    <list default="true" id="efa555a3-e79b-4d88-adc7-1987aede00bc" name="Changes" comment="30/05/2023">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day04_Locators_Xpath_Css/C01_getTagName_getAttributeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day04_Locators_Xpath_Css/C02_WebelementLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day05_XpathCssSelector/C01_Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day05_XpathCssSelector/C02_cssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day05_XpathCssSelector/C03_RelativeLocators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/libraries/CHANGELOG" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/libraries/CHANGELOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day01_IlkTest_DriverMethods/C02_DriverMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day01_IlkTest_DriverMethods/C02_DriverMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day01_IlkTest_DriverMethods/first.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day01_IlkTest_DriverMethods/C01_IlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day01_IlkTest_DriverMethods/C01_IlkTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ax/Desktop/GitProjectNT/SeleniumNewProject/src/resources/libraries/selenium-support-4.9.1.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -68,13 +64,13 @@
       <recent name="C:\Users\ax\Desktop\GitProjectNT\SeleniumNewProject\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C02_NavigateMethods">
-    <configuration name="C01_DriverMethods_ClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day02_DriverMethods.C01_DriverMethods_ClassWork" />
+  <component name="RunManager" selected="Application.C03_RelativeLocators">
+    <configuration name="C01_Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="techproed.day05_XpathCssSelector.C01_Xpath" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day02_DriverMethods.*" />
+          <option name="PATTERN" value="techproed.day05_XpathCssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_IlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day01_IlkTest_DriverMethods.C01_IlkTest" />
+    <configuration name="C01_getTagName_getAttributeName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="techproed.day04_Locators_Xpath_Css.C01_getTagName_getAttributeName" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day01_IlkTest_DriverMethods.*" />
+          <option name="PATTERN" value="techproed.day04_Locators_Xpath_Css.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WebElementLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day03_Locators.C01_WebElementLocators" />
+    <configuration name="C02_WebelementLocator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="techproed.day04_Locators_Xpath_Css.C02_WebelementLocator" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day03_Locators.*" />
+          <option name="PATTERN" value="techproed.day04_Locators_Xpath_Css.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_DriverMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day01_IlkTest_DriverMethods.C02_DriverMethods" />
+    <configuration name="C02_cssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="techproed.day05_XpathCssSelector.C02_cssSelector" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day01_IlkTest_DriverMethods.*" />
+          <option name="PATTERN" value="techproed.day05_XpathCssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_NavigateMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day02_DriverMethods.C02_NavigateMethods" />
+    <configuration name="C03_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="techproed.day05_XpathCssSelector.C03_RelativeLocators" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day02_DriverMethods.*" />
+          <option name="PATTERN" value="techproed.day05_XpathCssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02_NavigateMethods" />
-        <item itemvalue="Application.C01_DriverMethods_ClassWork" />
-        <item itemvalue="Application.C01_WebElementLocators" />
-        <item itemvalue="Application.C02_DriverMethods" />
-        <item itemvalue="Application.C01_IlkTest" />
+        <item itemvalue="Application.C03_RelativeLocators" />
+        <item itemvalue="Application.C02_cssSelector" />
+        <item itemvalue="Application.C01_Xpath" />
+        <item itemvalue="Application.C02_WebelementLocator" />
+        <item itemvalue="Application.C01_getTagName_getAttributeName" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +149,18 @@
       <option name="presentableId" value="Default" />
       <updated>1685026946339</updated>
     </task>
+    <task id="LOCAL-00001" summary="30/05/2023">
+      <created>1685481672973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685481672973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="30/05/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="30/05/2023" />
   </component>
 </project>
